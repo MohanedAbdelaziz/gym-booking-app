@@ -24,6 +24,31 @@ This project currently supports user authentication and a basic dashboard.
 
 ---
 
+## **Versions Used**
+
+### **Frontend (React)**
+- React: `---
+
+## **Versions Used**
+
+### **Frontend (React)**
+- React: `19.1.0`
+- React Router: `7.5.0`
+  
+### **Backend (Node.js + Express)**
+- Node.js: `16.18.0` 
+- Express: `5.1.0` 
+- JWT: `9.0.2` 
+- Bcrypt: `3.0.2` 
+
+### **MongoDB**
+- MongoDB Version: `6.15.0` 
+
+### **Development Tools**
+- npm: `9.7.1`
+
+---
+
 ## **Running the Project Locally**
 
 ### 1. Clone the repository
