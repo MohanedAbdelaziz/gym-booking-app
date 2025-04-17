@@ -44,6 +44,17 @@ This project currently supports user authentication and a basic dashboard.
 
 ---
 
+## Testing Tools
+
+This project uses the following tools for testing and API validation:
+
+- **Postman**: Used for testing RESTful API endpoints during development.
+  - Test login, register, and booking functionalities.
+  - Check for correct status codes and response data.
+  - Simulate requests with different user roles (admin/client).
+
+---
+
 ## **Running the Project Locally**
 
 ### 1. Clone the repository
