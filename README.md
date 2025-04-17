@@ -27,11 +27,6 @@ This project currently supports user authentication and a basic dashboard.
 ## **Versions Used**
 
 ### **Frontend (React)**
-- React: `---
-
-## **Versions Used**
-
-### **Frontend (React)**
 - React: `19.1.0`
 - React Router: `7.5.0`
   
